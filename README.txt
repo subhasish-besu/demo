@@ -6,3 +6,6 @@ This is a simple readme file
 
 there is some updates
 
+updates in stage
+
+more updates in to a working directory
